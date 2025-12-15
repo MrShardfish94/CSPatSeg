@@ -6,5 +6,5 @@ Pathological images are crucial references for the diagnosis of breast cancer. A
 
 Formal source will be available as soon as our work has been accepted.
 ## Data for previewing
-Before the formal source uploaded, we provide the partial data of CSBC-207 for previewing at the [likn](https://pan.baidu.com/s/1HEE40_P33lhvblW5U29pgQ?pwd=hw9x).
+Before the formal source uploaded, we provide the partial data of CSBC-207 for previewing at the [link](https://pan.baidu.com/s/1HEE40_P33lhvblW5U29pgQ?pwd=hw9x).
 
