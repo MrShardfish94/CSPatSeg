@@ -1,0 +1,10 @@
+# Continuous-slice pathological image segmentation via sequential information matching and Markov state transferring
+
+This is repository for the work "Continuous-slice pathological image segmentation via sequential information matching and Markov state transferring".
+
+Pathological images are crucial references for the diagnosis of breast cancer. Althought plenty of computer-aid (CAD) methods have attempted to complete the region segmentation of cancer tissue on pathological images, they only rely on pathological images derived from the single whole-slice-image (WSI) but can not cope with technical challenges arised on the single WSI. Therefore, this work explores an innovative approach that implements the pathological image segmentation on continuous-slice images of breast cancer. To achieve this goal, this work releases a continous-slice and breast-cancer pathological image dataset (CSBC-207) that includes 207 continuous-slice pathological image sequences from 50 breast-cancer patients. Meanwhile, this work also proposes a continuous-slice pathological segmentation method (CSPathSeg) to implement the pathological image segmentation of CSBC-207. CSPathSeg introduces encoding and decoding paths of sequential information matching that extract and locate lesion regions according to correlated clues derived from the matching calculation of current and previous slice. Moreover, the Markov state bridge configured between the encoding and decoding paths builds a state-transferring state to capture and absorb correlated information of neighbor slices by converging the feature from different transferring paths. The evaluated results provides that CSPathSeg reaches the more outstanding performances on evaluated data of CSBC-207, but are also more stable and consistent than compared methods on continuous-slice pathological images.
+
+Formal source will be available as soon as our work has been accepted.
+## Data for previewing
+Before the formal source uploaded, we provide the partial data of CSBC-207 for previewing at the [likn](https://pan.baidu.com/s/1HEE40_P33lhvblW5U29pgQ?pwd=hw9x).
+
